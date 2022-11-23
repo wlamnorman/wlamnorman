@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wlamnorman
-- 👀 I hold a masters degree in mathematics and have since 2022 turned a data scientist. 
+- 👀 I hold a master's degree in mathematics and have since 2022 turned a data scientist. 
 - 🌱 I’m currently working on smaller projects to learn and have fun!
 - 📫 How to reach me william-nn@hotmail.se
 
