@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @wlamnorman.
-- :email: You can contact me at vvilliamnorman@gmail.com.
+- 👋 Hi, I’m @wlamnorman
+- :email: You can contact me at vvilliamnorman@gmail.com
 
-Creator of https://wikiquests.com/ and Hostile Characters (https://wlam666.itch.io/hostile-characters)
+Creator of
+  - https://wikiquests.com
+  - https://wlam666.itch.io/hostile-characters
 
 <!---
 wlamnorman/wlamnorman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
