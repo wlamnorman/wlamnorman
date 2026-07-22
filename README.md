@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @wlamnorman.
-- 👀 I hold a master's degree in mathematics and have a passion for programming and building stuff.
-- 🌱 I’m currently working as a quantitative analyst at Abios. In my spare time I use github for exploring concepts that I read about in books, articles or come up with myself.
 - :email: You can contact me at vvilliamnorman@gmail.com.
 
-Creator of https://wikiquests.com/
+Creator of https://wikiquests.com/ and Hostile Characters (https://wlam666.itch.io/hostile-characters)
 
 <!---
 wlamnorman/wlamnorman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
